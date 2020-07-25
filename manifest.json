@@ -32,7 +32,7 @@
     "commands": {
         "_execute_sidebar_action": {
             "suggested_key": {
-                "default": "Shift+Alt+U"
+                "default": "Shift+Alt+W"
             },
             "description": "Toggle the Twitter sidebar"
         }
