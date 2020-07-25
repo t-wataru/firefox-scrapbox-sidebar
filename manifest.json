@@ -20,7 +20,7 @@
 			"48": "icons/icon1_48.png",
 			"96": "icons/icon1_96.png"
         },
-        "default_title": "Twitter",
+        "default_title": "Workflowy",
         "default_panel": "sidebar/panel.html"
     },
 
