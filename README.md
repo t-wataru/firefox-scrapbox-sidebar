@@ -2,6 +2,8 @@
 # Workflowy Sidebar for Firefox
 A Firefox WebExtension to display Workflowy (https://workflowy.com/) in the sidebar.
 
+Forked from https://github.com/theoosborn/firefox-twitter-sidebar
+
 <!-- <a href="https://addons.mozilla.org/en-US/firefox/addon/twitter-sidebar/">![downloadbutton](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_2.png)</a> -->
 
 ![screenshot](https://i.gyazo.com/thumb/1000/553412ea3f80e8e9d11a1da9fdd8aace-png.png)
