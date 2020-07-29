@@ -1,8 +1,8 @@
 {
 
     "manifest_version": 2,
-    "name": "Workflowy Sidebar",
-    "description": "Displays Workflowy in the sidebar.",
+    "name": "Scrapbox Sidebar",
+    "description": "Displays Scrapbox in the sidebar.",
     "version": "1.4",
     "applications": {
         "gecko": {
@@ -20,7 +20,7 @@
 			"48": "icons/icon1_48.png",
 			"96": "icons/icon1_96.png"
         },
-        "default_title": "Workflowy",
+        "default_title": "Scrapbox",
         "default_panel": "sidebar/panel.html"
     },
 
@@ -32,9 +32,9 @@
     "commands": {
         "_execute_sidebar_action": {
             "suggested_key": {
-                "default": "Shift+Alt+W"
+                "default": "Ctrl+Alt+S"
             },
-            "description": "Toggle the Workflowy sidebar"
+            "description": "Toggle the Scrapbox sidebar"
         }
     }
 }
